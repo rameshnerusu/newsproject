@@ -1,0 +1,20 @@
+.card {
+  width: 300px; /* You can adjust this value */
+  /* You can adjust this value */
+  align-items: center;
+  margin-top: 20px;
+  margin-left: 50px;
+  border: 2px solid;
+  border-radius: 4px;
+}
+.card-img-top {
+  width: 295px;
+  height: 200px;
+  align-items: center;
+}
+.card-title {
+  color: rgb(0, 225, 255);
+}
+.card-text {
+  color: rgb(205, 50, 161);
+}
